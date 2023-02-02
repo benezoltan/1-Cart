@@ -1,4 +1,4 @@
-//  Code By Webdevtrick ( https://webdevtrick.com ) 
+//     Code By Webdevtrick ( https://webdevtrick.com ) 
 var cartId = "cart";
 
 var localAdapter = {
